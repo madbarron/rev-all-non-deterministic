@@ -18,5 +18,5 @@ Observed behavior
 -----------------
 
 The index file has two possible results, produced randomly. More complex projects have more than two possibilities.
-> index.fab70fbb.html
-> index.41b654de.html
+- index.fab70fbb.html
+- index.41b654de.html
